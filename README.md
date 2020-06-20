@@ -1,6 +1,7 @@
 # antipode
 
 [![CI](https://github.com/milesgranger/antipode/workflows/CI/badge.svg?branch=master)](https://github.com/milesgranger/antipode/actions?query=branch=master)
+[![crates.io](http://meritbadge.herokuapp.com/antipode)](https://crates.io/crates/antipode)
 
 Calculate the point on earth's surface diametrically opposite to it.
 

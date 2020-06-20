@@ -3,6 +3,8 @@ name = "antipode"
 version = "1.0.0"
 authors = ["milesgranger <miles59923@gmail.com>"]
 edition = "2018"
+license-file = "LICENSE"
+description = "Compute the antipode of a geographic point"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
